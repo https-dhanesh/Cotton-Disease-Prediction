@@ -27,11 +27,10 @@ Cotton Plant Disease/
 ```
 
 
-#### update the cotton-mobile-app/constants/firebaseCongif.js
 
-#### update the ip to your current ip in cotton-mobile-app/app/analysis.tsx
+#### - Update the ip to your current ip in cotton-mobile-app/app/analysis.tsx
 
-#### Add the pkl model from https://www.kaggle.com/code/aehtajaz/cotton-classification-using-fasi-ai and put it in cotton-disease-server folder and rename it to export.pkl 
+#### - Add the pkl model from https://www.kaggle.com/code/aehtajaz/cotton-classification-using-fasi-ai and put it in cotton-disease-server folder and rename it to export.pkl 
 
 ### AI Server
 
